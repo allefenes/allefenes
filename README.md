@@ -17,7 +17,7 @@ Hi, <br><br>🔭 I’m currently working on my robotic project<br>🤝 I’m loo
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="25" height="25" /> Random Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## 😂 Random Meme
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" /> Random Meme
 <div align="center">
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 </div>
