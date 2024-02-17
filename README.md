@@ -1,12 +1,10 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Hi,
 Hi, <br><br>🔭 I’m currently working on my robotic project<br>🤝 I’m looking for help with <br>🌱 I’m currently learning ROS, Python, C++ and Digital Image Processing
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/allefenes) 
 
 # 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=linux,arduino,raspberrypi,ros,opencv,py,selenium,docker,git,github,html,css,ps,ai,figma,&theme=dark)
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/allefenes) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=allefenes&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
