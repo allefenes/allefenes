@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi, <br><br>🔭 I’m currently working on my robotic project<br>🤝 I’m looking for help with <br>🌱 I’m currently learning ROS, Python, C++ and Digital Image Processing
 
+<img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="100"> 
+
 # 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=arduino,css,docker,figma,git,github,html,ai,linux,opencv,ps,py,raspberrypi,ros,selenium,&theme=dark)
 
