@@ -1,4 +1,4 @@
-<div style="float: left; width: 50%;">
+<div >
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allefenes&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
   
