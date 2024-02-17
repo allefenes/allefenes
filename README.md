@@ -25,7 +25,5 @@ Hi, <br><br>🔭 I’m currently working on my robotic project<br>🤝 I’m loo
 </div>
 
 ---
-<div align="center">
 [![](https://visitcount.itsvg.in/api?id=allefenes&icon=6&color=4)](https://visitcount.itsvg.in)
-</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
