@@ -6,7 +6,7 @@ Hi, <br><br>🔭 I’m currently working on my robotic project<br>🤝 I’m loo
 # 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=linux,arduino,raspberrypi,ros,opencv,py,selenium,docker,git,github,html,css,ps,ai,figma,&theme=dark)
 
-# 📊 GitHub Stats:
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=allefenes&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=allefenes&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=allefenes&theme=blue-green&hide_border=true)<br/>
