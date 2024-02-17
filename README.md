@@ -12,19 +12,20 @@ Hi, <br><br>🔭 I’m currently working on my robotic project<br>🤝 I’m loo
 ![](https://github-readme-streak-stats.herokuapp.com/?user=allefenes&theme=blue-green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=allefenes&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=allefenes&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
+
+
+## ✍️ Random Dev Quote
 <div align="center">
-
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</div>
 
-### 😂 Random Dev Meme
+## 😂 Random Dev Meme
+<div align="center">
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=allefenes&icon=6&color=4)](https://visitcount.itsvg.in)
 
-</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
