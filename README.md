@@ -15,6 +15,8 @@ Hi, <br><br>🔭 I’m currently working on my robotic project<br>🤝 I’m loo
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=allefenes&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
+<div align="center">
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
@@ -24,4 +26,5 @@ Hi, <br><br>🔭 I’m currently working on my robotic project<br>🤝 I’m loo
 ---
 [![](https://visitcount.itsvg.in/api?id=allefenes&icon=6&color=4)](https://visitcount.itsvg.in)
 
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
