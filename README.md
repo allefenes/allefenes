@@ -2,11 +2,7 @@
 Hi, <br><br>🔭 I’m currently working on my robotic project<br>🤝 I’m looking for help with <br>🌱 I’m currently learning ROS, Python, C++ and Digital Image Processing
 
 # 💻 Tech Stack:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,ableton,actix,adonis,ae,aiscript,alpinejs,anaconda" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/allefenes) 
