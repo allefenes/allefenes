@@ -3,7 +3,7 @@ Hi, <br><br>🔭 I’m currently working on my robotic project<br>🤝 I’m loo
 
 
 # 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=arduino,css,docker,figma,git,github,html,ai,linux,opencv,ps,py,raspberrypi,ros,selenium,&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=linux,arduino,raspberrypi,ros,opencv,py,selenium,docker,git,github,html,css,ps,ai,figma,&theme=dark)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/allefenes) 
