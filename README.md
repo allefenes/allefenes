@@ -3,7 +3,7 @@ I am learning everday... <br><br>🔭 I’m currently working on my robotic proj
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/allefenes) 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" height="20" /> Tech Stack:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="20" height="20" /> Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=linux,arduino,raspberrypi,ros,opencv,py,selenium,docker,git,github,html,css,ps,ai,figma,&theme=dark)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="20" height="20" /> GitHub Stats:
