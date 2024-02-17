@@ -23,7 +23,7 @@ Hi, <br><br>🔭 I’m currently working on my robotic project<br>🤝 I’m loo
 <div align="center">
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 </div>
-
-[![](https://visitcount.itsvg.in/api?id=allefenes&icon=6&color=4)](https://visitcount.itsvg.in)"
+---
+[![](https://visitcount.itsvg.in/api?id=allefenes&icon=6&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
