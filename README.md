@@ -15,14 +15,11 @@ Hi, <br><br>🔭 I’m currently working on my robotic project<br>🤝 I’m loo
 
 
 
-### ✍️ Random Dev Quote
-<div align="center>
-  
+## ✍️ Random Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-</div>
 
-## 😂 Random Dev Meme
+## 😂 Random Meme
 <div align="center">
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 </div>
